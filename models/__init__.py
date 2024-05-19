@@ -1,8 +1,12 @@
 #!/usr/bin/python3
-"""
-This is the __init__.py file
-"""
-from models.engine import file_storage
 
-storage = file_storage.FileStorage()
+"""
+Initializes  the module
+"""
+
+from .engine.file_storage import FileStorage
+"""
+Retrieves the storage instance
+"""
+storage = FileStorage()
 storage.reload()
