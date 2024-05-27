@@ -1,0 +1,11 @@
+--2024-05-27 21:44:20--  https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bed.png
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.217.137.40, 52.216.8.173, 52.216.97.141, ...
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.217.137.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 447 [image/png]
+Saving to: ‘icon_bed.png’
+
+     0K                                                       100% 16.7M=0s
+
+2024-05-27 21:44:21 (16.7 MB/s) - ‘icon_bed.png’ saved [447/447]
+

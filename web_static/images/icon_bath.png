@@ -1,0 +1,11 @@
+--2024-05-27 21:45:36--  https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bath.png
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 54.231.199.40, 52.216.32.80, 52.217.42.214, ...
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|54.231.199.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 704 [image/png]
+Saving to: ‘icon_bath.png’
+
+     0K                                                       100% 36.9M=0s
+
+2024-05-27 21:45:37 (36.9 MB/s) - ‘icon_bath.png’ saved [704/704]
+
