@@ -1,0 +1,11 @@
+--2024-05-27 22:08:33--  https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_wifi.png
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.33.112, 52.216.179.29, 52.216.62.152, ...
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.33.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1006 [image/png]
+Saving to: ‘icon_wifi.png’
+
+     0K                                                       100%  100K=0.01s
+
+2024-05-27 22:08:34 (100 KB/s) - ‘icon_wifi.png’ saved [1006/1006]
+

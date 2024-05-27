@@ -1,0 +1,11 @@
+--2024-05-27 22:09:12--  https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_pets.png
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.213.32, 52.216.221.104, 52.217.198.72, ...
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.213.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 970 [image/png]
+Saving to: ‘icon_pets.png’
+
+     0K                                                       100% 79.1M=0s
+
+2024-05-27 22:09:13 (79.1 MB/s) - ‘icon_pets.png’ saved [970/970]
+
